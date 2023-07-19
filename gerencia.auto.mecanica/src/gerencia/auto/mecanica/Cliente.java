@@ -37,5 +37,6 @@ public class Cliente extends Pessoa{
     public void setCor(String cor) {
         this.cor = cor;
     }
+
     
 } 
